@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/krandrews/static/css/main.bef914e1.css",
-    "main.js": "/krandrews/static/js/main.28d4a11b.js",
+    "main.js": "/krandrews/static/js/main.05b94320.js",
     "static/js/787.36be3feb.chunk.js": "/krandrews/static/js/787.36be3feb.chunk.js",
     "static/media/forestBG.png": "/krandrews/static/media/forestBG.59b95eb7becf9d44d726.png",
     "index.html": "/krandrews/index.html",
     "main.bef914e1.css.map": "/krandrews/static/css/main.bef914e1.css.map",
-    "main.28d4a11b.js.map": "/krandrews/static/js/main.28d4a11b.js.map",
+    "main.05b94320.js.map": "/krandrews/static/js/main.05b94320.js.map",
     "787.36be3feb.chunk.js.map": "/krandrews/static/js/787.36be3feb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bef914e1.css",
-    "static/js/main.28d4a11b.js"
+    "static/js/main.05b94320.js"
   ]
 }
