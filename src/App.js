@@ -1,8 +1,8 @@
 import './App.css';
 import Header from './Components/Common/Header';
 import Footer from './Components/Common/Footer';
-import bookIcon from '/imgs/book.png';
-import authorImg from '/imgs/AuthorPic.png';
+import bookIcon from './imgs/book.png';
+import authorImg from './imgs/AuthorPic.png';
 
 
 function App() {
