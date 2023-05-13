@@ -1,5 +1,3 @@
-import footerlogo from '../imgs/footerIcon.png';
-
 function Footer() {
     return (
         <div class="footer bg-dark">
