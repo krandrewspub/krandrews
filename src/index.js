@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './stylesheet.css';
 import Home from './Home';
 import reportWebVitals from './reportWebVitals';
-import { createBrowserRouter, RouterProvider, Route } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import About from './About'
 
 
