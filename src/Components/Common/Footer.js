@@ -15,7 +15,7 @@ function Footer() {
 
 
 		<div class="footer-logo-div float-lwft">
-			{/* <img src={require("../imgs/footerIcon.png")} class="footer-logo d-inline-block align-top" alt=""/> */}
+			<img src="./imgs/footerIcon.png" class="footer-logo d-inline-block align-top" alt=""/>
 		</div>
 
  <div class="clear"></div>
