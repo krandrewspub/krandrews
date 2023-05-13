@@ -1,6 +1,9 @@
 import './App.css';
 import Header from './Components/Common/Header';
 import Footer from './Components/Common/Footer';
+import bookIcon from './imgs/book.png';
+import authorImg from './imgs/AuthorPic.png';
+
 
 function App() {
   return (
@@ -30,7 +33,7 @@ function App() {
 
                 <div class="row books-show">
                   <div class="col-sm-4">
-                    <img class="top-content-img" src={"%PUBLIC_URL%/img/book.png"} />
+                    <img class="top-content-img" src={bookIcon} />
                   </div>
                   <div class="col-sm-8 text-center">
                     <div class="card-body">
@@ -107,7 +110,7 @@ function App() {
               <div class="col-md-2"></div>
 
               <div class="col-md-3 author-pic">
-                <img src={"%PUBLIC_URL%/imgs/AuthorPic.png"} />
+                <img src={authorImg} />
                 <h6 class="garamond">K.R. Andrews</h6>
                 <p class="garamond">Lorem ipsum glara fernto sdfadf sadf dsfasdf asdf </p>
               </div>

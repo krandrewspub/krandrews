@@ -1,4 +1,4 @@
-
+import footerlogo from './imgs/footerIcon.png';
 
 function Footer() {
     return (
@@ -17,7 +17,7 @@ function Footer() {
 
 
 		<div class="footer-logo-div float-lwft">
-			<img src={"./styles/footerIcon.png"} class="footer-logo d-inline-block align-top" alt=""/>
+			<img src={footerlogo} class="footer-logo d-inline-block align-top" alt=""/>
 		</div>
 
  <div class="clear"></div>
