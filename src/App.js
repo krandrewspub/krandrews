@@ -30,7 +30,7 @@ function App() {
 
                 <div class="row books-show">
                   <div class="col-sm-4">
-                    <img class="top-content-img" src="./img/book.png" />
+                    <img class="top-content-img" src={"./img/book.png"} />
                   </div>
                   <div class="col-sm-8 text-center">
                     <div class="card-body">
