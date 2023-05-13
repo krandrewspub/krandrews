@@ -1,9 +1,11 @@
+import Header from './Components/Common/Header';
+import Footer from './Components/Common/Footer';
 
 function Home() {
   return (
     <div>
-
-
+      
+    <Header/>
 
       <div class="top-content">
 
@@ -129,7 +131,7 @@ function Home() {
 
       </div>
 
-
+    <Footer/>
     </div>
   );
 }
