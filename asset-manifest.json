@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/krandrews/static/css/main.83fe6d8f.css",
-    "main.js": "/krandrews/static/js/main.f1d019ca.js",
+    "main.js": "/krandrews/static/js/main.8dc77510.js",
     "static/js/787.36be3feb.chunk.js": "/krandrews/static/js/787.36be3feb.chunk.js",
     "index.html": "/krandrews/index.html",
     "main.83fe6d8f.css.map": "/krandrews/static/css/main.83fe6d8f.css.map",
-    "main.f1d019ca.js.map": "/krandrews/static/js/main.f1d019ca.js.map",
+    "main.8dc77510.js.map": "/krandrews/static/js/main.8dc77510.js.map",
     "787.36be3feb.chunk.js.map": "/krandrews/static/js/787.36be3feb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83fe6d8f.css",
-    "static/js/main.f1d019ca.js"
+    "static/js/main.8dc77510.js"
   ]
 }
