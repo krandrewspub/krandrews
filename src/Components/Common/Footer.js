@@ -1,6 +1,6 @@
 
 
-function Header() {
+function Footer() {
     return (
         <div class="footer bg-dark">
 
@@ -27,4 +27,4 @@ function Header() {
     );
 }
 
-export default Header;
+export default Footer;
