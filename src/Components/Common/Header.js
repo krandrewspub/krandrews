@@ -1,4 +1,4 @@
-import logo from '/imgs/KRLogo.png';
+import logo from './imgs/KRLogo.png';
 
 function Header() {
     return (
