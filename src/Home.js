@@ -1,12 +1,7 @@
-import './App.css';
-import Header from './Components/Common/Header';
-import Footer from './Components/Common/Footer';
 
-
-function App() {
+function Home() {
   return (
     <div>
-      <Header />
 
 
 
@@ -135,9 +130,8 @@ function App() {
       </div>
 
 
-      <Footer />
     </div>
   );
 }
 
-export default App;
+export default Home;

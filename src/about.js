@@ -3,14 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './stylesheet.css';
 import Header from './Components/Common/Header';
 import Footer from './Components/Common/Footer';
-import Home from './Home';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Header/>
-    <Home/>
+
+<h1>Test</h1>
+
     <Footer/>
   </React.StrictMode>
 );
