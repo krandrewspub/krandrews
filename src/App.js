@@ -30,7 +30,7 @@ function App() {
 
                 <div class="row books-show">
                   <div class="col-sm-4">
-                    <img class="top-content-img" src={"./img/book.png"} />
+                    <img class="top-content-img" src={"%PUBLIC_URL%/img/book.png"} />
                   </div>
                   <div class="col-sm-8 text-center">
                     <div class="card-body">
@@ -107,7 +107,7 @@ function App() {
               <div class="col-md-2"></div>
 
               <div class="col-md-3 author-pic">
-                <img src="./imgs/AuthorPic.png" />
+                <img src={"%PUBLIC_URL%/imgs/AuthorPic.png"} />
                 <h6 class="garamond">K.R. Andrews</h6>
                 <p class="garamond">Lorem ipsum glara fernto sdfadf sadf dsfasdf asdf </p>
               </div>
